@@ -26,7 +26,7 @@ Fork The Repo
 
 #### Session ID
 
-<a href="https://phoenix-md-session-2d1abf43e37e.herokuapp.com/"><img title="Phoenix-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://phoenix-md-qr.onrender.com/"><img title="Phoenix-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 
 ## Phoenix-MD Deploy Method
 
@@ -45,7 +45,7 @@ Fork The Repo
 
 ### Deploy Heroku 
 
-<a href="https://phoenix-md-deploybot-b19f3afc70e9.herokuapp.com/heroku"><img title="Phoenix-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/AbhishekSuresh2/Phoenix-MD/"><img title="Phoenix-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ### Heroku Tutorial
 
